@@ -1,0 +1,18 @@
+H,25092021,2
+D,067100236100012517000,41,105195,payment to the vendor
+H,25092021,2
+D,067100236100012517000,41,105195,payment to the vendor
+H,25092021,2
+D,067100236080012517000,41,33333,payment to the vendor
+H,26092021,2
+D,067100236080012517000,41,33333,payment to the vendor Related Merchnat Account Number = 23686
+H,26092021,2
+D,067100236080012517000,41,33333,payment Related Merchant Account Number = 23686
+H,30-09-2021,2
+D,067100236100012517000,41,42857,payment Related Merchant Account Number = 23686
+H,30-09-2021,2
+D,067100236100012517000,41,75000,payment Related Merchant Account Number = 23686
+H,04-10-2021,2
+D,067100236100012517000,41,54000,payment Related Merchant Account Number = 23686
+H,11-10-2021,2
+D,067100236100012517000,41,30769,payment Related Merchant Account Number = 23686
